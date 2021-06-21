@@ -2,7 +2,7 @@
 * 👀 I’m interested in playing volleyball
 * 🌱 I’m currently learning web programming
 * 💞️ I’m looking to complete final project
-* 📫 Reach me _* monday 09:10-11:50 **online** *_
+* 📫 Reach me _ monday 09:10-11:50 **online** _
 
 Nice to meet you
 <!---
